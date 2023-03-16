@@ -28,7 +28,8 @@ library(lubridate)
 
 # Vektoren Typen
 
-## Atomare Vektoren 
+## Atomare Vektoren  
+Liste der Vektoren
 
 - logical
 - integer (numerisch)
